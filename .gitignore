@@ -1,2 +1,3 @@
 venv
 data/
+audio_classification_model.pth
